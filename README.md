@@ -1,5 +1,7 @@
 # DIO | Resumos Git e GitHub
 
+# Alteração para teste de Commit
+
 Repositório para armazenar resumos sobre Git e GitHub do curso "Versionamento de Código com Git e GitHub" da [Digital Innovation One](https://www.dio.me)
 
 ## 📚 Documentação
@@ -55,3 +57,4 @@ echo <cria mensagem>
 ## 📑 Referências 
 - [Edicição de arquivos markdown](https://readme.so)
 - [Atlassian - Use bem o Git](https://www.atlassian.com/br/git)
+
